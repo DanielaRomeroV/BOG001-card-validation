@@ -13,7 +13,7 @@ This project is the event page for PachaConf where you can buy your tickets for 
 [Estimated time vs actual time](https://docs.google.com/spreadsheets/d/e/2PACX-1vTxS7qPsFo0yyTjCT4AEFmXGJAkEOGUF16ZipqITcmfkSaX7HsISoTKPYKIy2Juhm9BNdt5TI5neG9s/pub?gid=1386834576&single=true&output=pdf)
 
 ## Here are my first sketches for this project
-<img src="./sketches/0firstLowFidelitySketch.jpg" alt="First sketches of the project" width="600" />
+<img src="https://github.com/luucamay/pachaconf/blob/master/sketches/0firstLowFidelitySketch.jpg" alt="First sketches of the project" width="600" />
 <img src="./sketches/firstLowFidelitySketch.jpg" alt="First sketches for the project" width="600" />
 
 ## This is the final low fidelity sketch for this project
