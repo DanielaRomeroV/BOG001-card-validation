@@ -14,13 +14,13 @@ This project is the event page for PachaConf where you can buy your tickets for 
 
 ## Here are my first sketches for this project
 <img src="https://github.com/luucamay/pachaconf/blob/master/sketches/0firstLowFidelitySketch.jpg" alt="First sketches of the project" width="600" />
-<img src="./sketches/firstLowFidelitySketch.jpg" alt="First sketches for the project" width="600" />
+<img src="https://github.com/luucamay/pachaconf/blob/master/sketches/finalLowFidelitySketch.jpg" alt="First sketches for the project" width="600" />
 
 ## This is the final low fidelity sketch for this project
-<img src="./sketches/finalLowFidelitySketch.jpg" alt="This is the final sketch for this project" width="600" />
+<img src="https://github.com/luucamay/pachaconf/blob/master/sketches/finalLowFidelitySketch.jpg" alt="This is the final sketch for this project" width="600" />
 
 ## Final image of my project - high fidelity
-<img src="./sketches/HightFidelitySketch.png" alt="Sketch created in figma showing 3 main screens" width ="600" />
+<img src="https://github.com/luucamay/pachaconf/blob/master/sketches/HightFidelitySketch.png" alt="Sketch created in figma showing 3 main screens" width ="600" />
 
 ### UX
 
