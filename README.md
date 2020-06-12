@@ -1,5 +1,26 @@
 # Tarjeta de crédito válida
 
+This project is the event page for PachaConf where you can buy your tickets for the online conference :)
+
+# Investigacion UX
+1. Users of this project are enviromental activists who want to attend a global conference in order to celebrate the international day of planet earth.
+2. This project is meant to help to register the attendants in the virtual event.
+3. First prototype
+4. Feedback I have gotten
+5. Image of final prototype
+
+## Time planning
+[Estimated time vs actual time](https://docs.google.com/spreadsheets/d/e/2PACX-1vTxS7qPsFo0yyTjCT4AEFmXGJAkEOGUF16ZipqITcmfkSaX7HsISoTKPYKIy2Juhm9BNdt5TI5neG9s/pub?gid=1386834576&single=true&output=pdf)
+
+## Here are my first sketches for this project
+<img src="./sketches/0firstLowFidelitySketch.jpg" alt="First sketches of the project" width="600" />
+<img src="./sketches/firstLowFidelitySketch.jpg" alt="First sketches for the project" width="600" />
+
+## This is the final low fidelity sketch for this project
+<img src="./sketches/finalLowFidelitySketch.jpg" alt="This is the final sketch for this project" width="600" />
+
+## Final image of my project - high fidelity
+<img src="./sketches/HightFidelitySketch.png" alt="Sketch created in figma showing 3 main screens" width ="600" />
 
 ### UX
 
